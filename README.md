@@ -8,3 +8,4 @@ his business. Definitely looking forward to accruing some new skills through thi
 #### Code 301 Reading Notes
 
 1. [Components & Props](./notes/components.md)
+2. [State & Props](./notes/state.md)
