@@ -1,4 +1,4 @@
-## State & Props
+# State & Props
 
 ### React Lifecycle
 
