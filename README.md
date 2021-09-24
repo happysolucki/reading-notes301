@@ -6,3 +6,5 @@ his business. Definitely looking forward to accruing some new skills through thi
 ### Table of Contents
 
 #### Code 301 Reading Notes
+
+1. [Components & Props](./notes/components.md)
