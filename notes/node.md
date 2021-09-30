@@ -36,7 +36,7 @@ To install and run various build tools to help automate the process of building 
 
 ### Pair Programming
 
-1. What are the 6 reasons for pair programming?
+9. What are the 6 reasons for pair programming?
 
 - Greater efficiency
 - Engaged collaboration
@@ -45,7 +45,7 @@ To install and run various build tools to help automate the process of building 
 - Job interview readiness
 - Work environment readiness
 
-2. In your experience, which of these reasons have you found most beneficial?
+10. In your experience, which of these reasons have you found most beneficial?
 
 Being able to collaborate with someone else and see how others look at and approach problems. Having someone to bounce ideas off of is beneficial as well.
 
