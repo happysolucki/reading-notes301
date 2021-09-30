@@ -12,3 +12,4 @@ his business. Definitely looking forward to accruing some new skills through thi
 3. [Passing Functions as Props](./notes/funcs.md)
 4. [React and Forms](./notes/forms.md)
 5. [Putting it all together](./notes/together.md)
+6. [Node.js](./notes/node.md)
