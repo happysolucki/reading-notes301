@@ -49,6 +49,6 @@ To install and run various build tools to help automate the process of building 
 
 Being able to collaborate with someone else and see how others look at and approach problems. Having someone to bounce ideas off of is beneficial as well.
 
-3. How does pair programming work?
+11. How does pair programming work?
 
 It's similar to professional racing. There's a driver and a navigator. The driver is responsible for writing the code, while the navigator guides the driver on what to do.
