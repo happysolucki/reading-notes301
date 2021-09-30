@@ -36,7 +36,7 @@ To install and run various build tools to help automate the process of building 
 
 ### Pair Programming
 
-9. What are the 6 reasons for pair programming?
+1. What are the 6 reasons for pair programming?
 
 - Greater efficiency
 - Engaged collaboration
@@ -45,10 +45,10 @@ To install and run various build tools to help automate the process of building 
 - Job interview readiness
 - Work environment readiness
 
-10. In your experience, which of these reasons have you found most beneficial?
+2. In your experience, which of these reasons have you found most beneficial?
 
 Being able to collaborate with someone else and see how others look at and approach problems. Having someone to bounce ideas off of is beneficial as well.
 
-11. How does pair programming work?
+3. How does pair programming work?
 
 It's similar to professional racing. There's a driver and a navigator. The driver is responsible for writing the code, while the navigator guides the driver on what to do.
