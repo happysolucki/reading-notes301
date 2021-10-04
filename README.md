@@ -14,3 +14,4 @@ his business. Definitely looking forward to accruing some new skills through thi
 5. [Putting it all together](./notes/together.md)
 6. [Node.js](./notes/node.md)
 7. [REST](./notes/rest.md)
+8. [APIs](./notes/apis.md)
