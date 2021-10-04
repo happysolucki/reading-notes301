@@ -15,3 +15,5 @@ his business. Definitely looking forward to accruing some new skills through thi
 6. [Node.js](./notes/node.md)
 7. [REST](./notes/rest.md)
 8. [APIs](./notes/apis.md)
+9. [Functional Programming](./notes/functional.md)
+10. [In Memory Storage](./notes/memory.md)
