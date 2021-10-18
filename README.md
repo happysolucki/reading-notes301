@@ -18,3 +18,4 @@ his business. Definitely looking forward to accruing some new skills through thi
 9. [Functional Programming](./notes/functional.md)
 10. [In Memory Storage](./notes/memory.md)
 11. [Mongo and Mongoose](./notes/mongo.md)
+12. [CRUD](./notes/crud.md)
