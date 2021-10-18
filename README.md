@@ -19,3 +19,5 @@ his business. Definitely looking forward to accruing some new skills through thi
 10. [In Memory Storage](./notes/memory.md)
 11. [Mongo and Mongoose](./notes/mongo.md)
 12. [CRUD](./notes/crud.md)
+13. [Diversity & Inclusion in the Tech Industry](./notes/diverse.md)
+14. [Authentication](./notes/auth.md)
